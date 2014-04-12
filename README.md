@@ -2,6 +2,9 @@
 
 Simple configuration management for Clojure and/or ClojureScript applications.
 
+> Beware of false knowledge; it is more dangerous than ignorance.
+> - George Bernard Shaw
+
 ## Usage
 
 The configuration starts out as an empty clojure map protected by an atom.  You
